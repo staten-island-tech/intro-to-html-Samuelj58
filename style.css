@@ -1,0 +1,14 @@
+body{
+    background-color: red;
+    color: blue;
+    font-size: 25px;
+}
+h1{
+    color: green;
+}
+.white-font{ 
+    color: white;
+}
+#id{
+    color: purple;
+}
